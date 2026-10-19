@@ -1,6 +1,6 @@
 # Outreach playbook
 
-How to reach out, what to write, how often to follow up, and what to do after a conversation. Most of this comes from using the kit in a live senior search in October 2026. A few practices build on ideas from Laszlo Bock's *Apply Within* job search series; those are marked **(after Bock)** and described in our own words. See the [credits](../README.md#credits).
+How to reach out, what to write, how often to follow up, and what to do after a conversation. Most of this comes from using the kit in a live senior search in October 2026. A few practices build on ideas from Laszlo Bock's *Apply Within* job search series; those are marked **(after Bock)** and described in our own words. See the [credits](README.md#credits).
 
 ## The principle
 

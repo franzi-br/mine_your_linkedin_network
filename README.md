@@ -1,4 +1,7 @@
-# LinkedIn Network Kit for Claude
+# Mine your LinkedIn network for your next role
+
+A prompt kit for Claude.
+
 
 Turn your LinkedIn data export into a ranked list of the people most likely to help you land your next role, each with a reason and a ready to send opening line, plus a tracker and an outreach playbook to work the list.
 
@@ -16,9 +19,9 @@ In about an hour, Claude reads your full LinkedIn export and returns:
 ## Quick start
 
 1. Request your full LinkedIn archive (Settings & Privacy, Data privacy, Get a copy of your data). It can take up to a day.
-2. Answer the eight questions in [docs/setup.md](docs/setup.md).
-3. Fill in [prompt/prompt.md](prompt/prompt.md) with your answers.
-4. Run it in Claude with the zip attached. When the shortlist is back, add what only you know about the people on it, then work the list with the [outreach playbook](docs/outreach_playbook.md).
+2. Answer the eight questions in [docs/setup.md](setup.md).
+3. Fill in [prompt/prompt.md](prompt.md) with your answers.
+4. Run it in Claude with the zip attached. When the shortlist is back, add what only you know about the people on it, then work the list with the [outreach playbook](outreach_playbook.md).
 
 Works best in a Claude Project with your CV uploaded. For a Google Sheet as output, connect Google Drive and Google Sheets first.
 
@@ -26,11 +29,11 @@ Works best in a Claude Project with your CV uploaded. For a Google Sheet as outp
 
 | Path | What it is |
 | --- | --- |
-| [prompt/prompt.md](prompt/prompt.md) | The prompt, plus the second pass for personal context |
-| [docs/setup.md](docs/setup.md) | Export steps, the eight questions, how to run it, limits |
-| [docs/outreach_playbook.md](docs/outreach_playbook.md) | How to reach out, what to write, follow up cadence |
-| [examples/filled_prompt_example.md](examples/filled_prompt_example.md) | A filled prompt for a fictional user |
-| [templates/outreach_tracker.csv](templates/outreach_tracker.csv) | Tracker columns, if you'd rather keep it yourself |
+| [prompt.md](prompt.md) | The prompt, plus the second pass for personal context |
+| [setup.md](setup.md) | Export steps, the eight questions, how to run it, limits |
+| [outreach_playbook.md](outreach_playbook.md) | How to reach out, what to write, follow up cadence |
+| [filled_prompt_example.md](filled_prompt_example.md) | A filled prompt for a fictional user |
+| [outreach_tracker.csv](outreach_tracker.csv) | Tracker columns, if you'd rather keep it yourself |
 
 ## Privacy
 

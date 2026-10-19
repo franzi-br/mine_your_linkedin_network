@@ -1,6 +1,6 @@
 # The prompt
 
-Copy everything inside the code block, replace every [bracket] with your answers from [docs/setup.md](../docs/setup.md), and delete any line that does not apply (for example Track B if you have one target role). Attach your LinkedIn zip and send.
+Copy everything inside the code block, replace every [bracket] with your answers from [docs/setup.md](setup.md), and delete any line that does not apply (for example Track B if you have one target role). Attach your LinkedIn zip and send.
 
 ```
 GOAL

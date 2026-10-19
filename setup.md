@@ -1,6 +1,6 @@
 # Setup: export, questions, run
 
-Four steps: download your archive, answer eight questions, fill in [the prompt](../prompt/prompt.md), and run it in Claude. The quality of the output depends almost entirely on step 2, so spend your time there.
+Four steps: download your archive, answer eight questions, fill in [the prompt](prompt.md), and run it in Claude. The quality of the output depends almost entirely on step 2, so spend your time there.
 
 ## Step 1: Download your LinkedIn archive
 
@@ -40,7 +40,7 @@ Have these ready, because the best conversations end with "send me your CV" or "
 
 ## Step 3: Fill in the prompt
 
-Open [prompt/prompt.md](../prompt/prompt.md), copy the block, and replace every [bracket]. Delete any line that doesn't apply.
+Open [prompt.md](prompt.md), copy the block, and replace every [bracket]. Delete any line that doesn't apply.
 
 ## Step 4: Run it and work the list
 
@@ -49,7 +49,7 @@ The first run gives you a draft list. The real value comes from the second pass,
 1. Set up Claude. A Claude Project works best: upload your CV so messages can draw on real proof points. If you want a Google Sheet, connect Google Drive and Google Sheets first, and check that the connected account is your own, because the sheet is created there.
 2. Paste your filled prompt, attach the LinkedIn zip, and send.
 3. Check the header step. Claude should first confirm which files and signals it found. Correct anything that looks off before it scores.
-4. Add what only you know. Once the list is back, go through the 5s and the strongest 4s and give Claude one line on your real history with each person you know ("worked together at X", "she recruited me into my current job", "I owe him an apology for a cancelled call"). Use the second pass prompt in [prompt/prompt.md](../prompt/prompt.md#second-pass-what-only-you-know). You only do this for the shortlist, never for your whole network, and warm context beats any title based line.
+4. Add what only you know. Once the list is back, go through the 5s and the strongest 4s and give Claude one line on your real history with each person you know ("worked together at X", "she recruited me into my current job", "I owe him an apology for a cancelled call"). Use the second pass prompt in [prompt/prompt.md](prompt.md#second-pass-what-only-you-know). You only do this for the shortlist, never for your whole network, and warm context beats any title based line.
 5. Check each profile before sending. Look for a recent post, a shared group or a mutual connection to sharpen the opening.
 6. Send in batches of 5 to 10 and log every send in the Outreach tracker on the day you send it, not only the replies. Without the sends you can't tell what is working.
 7. Ask for niche segments separately once the main list exists. A follow up like "check whether I have contacts at fast scaling AI companies and add them to a new tab" works well.
