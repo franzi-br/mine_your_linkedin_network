@@ -1,0 +1,9 @@
+# Never commit a LinkedIn export or its output
+*.zip
+*.csv
+!outreach_tracker.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
