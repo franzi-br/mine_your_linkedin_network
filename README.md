@@ -19,8 +19,8 @@ In about an hour, Claude reads your full LinkedIn export and returns:
 ## Quick start
 
 1. Request your full LinkedIn archive (Settings & Privacy, Data privacy, Get a copy of your data). It can take up to a day.
-2. Answer the eight questions in [docs/setup.md](setup.md).
-3. Fill in [prompt/prompt.md](prompt.md) with your answers.
+2. Answer the eight questions in [setup.md](setup.md).
+3. Fill in [prompt.md](prompt.md) with your answers.
 4. Run it in Claude with the zip attached. When the shortlist is back, add what only you know about the people on it, then work the list with the [outreach playbook](outreach_playbook.md).
 
 Works best in a Claude Project with your CV uploaded. For a Google Sheet as output, connect Google Drive and Google Sheets first.
